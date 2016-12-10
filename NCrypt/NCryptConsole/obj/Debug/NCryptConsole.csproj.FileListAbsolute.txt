@@ -1,0 +1,6 @@
+\\NCSMBP01\Home\My Documents\Visual Studio 2012\Projects\NCrypt\NCryptConsole\obj\Debug\NCryptConsole.csprojResolveAssemblyReference.cache
+\\NCSMBP01\Home\My Documents\Visual Studio 2012\Projects\NCrypt\NCryptConsole\bin\Debug\NCryptConsole.exe.config
+\\NCSMBP01\Home\My Documents\Visual Studio 2012\Projects\NCrypt\NCryptConsole\bin\Debug\NCryptConsole.exe
+\\NCSMBP01\Home\My Documents\Visual Studio 2012\Projects\NCrypt\NCryptConsole\bin\Debug\NCryptConsole.pdb
+\\NCSMBP01\Home\My Documents\Visual Studio 2012\Projects\NCrypt\NCryptConsole\obj\Debug\NCryptConsole.exe
+\\NCSMBP01\Home\My Documents\Visual Studio 2012\Projects\NCrypt\NCryptConsole\obj\Debug\NCryptConsole.pdb
